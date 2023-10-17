@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Tech Conference",
+        "img": "https://i.ibb.co/dB8CSZr/Tech-Conference.jpg",
+        "price": 599.99,
+        "short_description": "A large-scale gathering of professionals and enthusiasts in the tech industry, featuring keynote speakers, workshops, and networking opportunities.A tech conference is a gathering of professionals, experts, enthusiasts, and industry leaders in the field of technology, typically held to discuss and showcase the latest advancements, trends, and innovations in various areas of technology. These conferences can vary in size, focus, and format but generally serve as platforms for networking, learning, collaboration, and the exchange of ideas. "
+    },
+    {
+        "id": 2,
+        "title": "Hackathon",
+        "img": "https://i.ibb.co/bNHLtcZ/h.jpg",
+        "price": 680.99,
+        "short_description": "An event where software developers, designers, and other tech enthusiasts come together to collaborate intensively on software projects within a specified timeframe.A hackathon is an event, typically lasting for a defined period (ranging from a few hours to several days), during which individuals or teams come together to collaboratively work on innovative projects, often related to software development, technology, or problem-solving. The term 'hackathon' is a blend of 'hack' (in the sense of creative coding or problem-solving) and 'marathon' (implying a focused and sustained effort). "
+    },
+    {
+        "id": 3,
+        "title": "Startup Competition",
+        "img": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "price": 793.99,
+        "short_description": "A competition where startup companies pitch their business ideas or products to a panel of judges, potential investors, and the audience.A startup competition is an event or program that provides entrepreneurs and early-stage startups with the opportunity to pitch their business ideas, products, or services to a panel of judges or potential investors. These competitions are designed to identify promising startups, offer them exposure, mentorship, and funding opportunities, and help them accelerate their growth."
+    },
+    {
+        "id": 4,
+        "title": "Workshop",
+        "img": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "price": 429.99,
+        "short_description": "Educational events where attendees can learn new skills, tools, or technologies related to the tech industry.A tech workshop is a structured and hands-on learning event that focuses on teaching participants practical skills, techniques, or knowledge related to various aspects of technology. These workshops can cover a wide range of topics, from programming and software development to hardware, data analysis, cybersecurity, and emerging technologies."
+    },
+    {
+        "id": 5,
+        "title": "Product Launch",
+        "img": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2012&q=80",
+        "price": 539.99,
+        "short_description": "The unveiling of a new tech product or service, often accompanied by demonstrations, presentations, and media coverage.A product launch is a strategic and coordinated marketing and promotional event that introduces a new product to the market. It's a critical milestone for businesses, as it represents the culmination of product development efforts and the beginning of the product's journey in the marketplace."
+    },
+    {
+        "id": 6,
+        "title": "Tech Meetup",
+        "img": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
+        "price": 779.99,
+        "short_description": "Informal gatherings of tech professionals and enthusiasts to discuss specific topics, network, and share knowledge.A tech meetup is an informal gathering of individuals who share an interest in technology and related topics. These events are typically organized by tech enthusiasts, industry professionals, or tech-focused organizations to facilitate networking, knowledge sharing, and discussions within the tech community."
+    },
+    {
+        "id": 7,
+        "title": "Tech Job Fair",
+        "img": "https://images.unsplash.com/photo-1618758993113-2447833402d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "price": 449.99,
+        "short_description": "An event that connects tech companies with potential job candidates, allowing them to recruit talent and job seekers to explore career opportunities.A tech job fair is an event where technology companies and organizations come together to recruit potential employees and showcase their job opportunities. These job fairs are typically targeted at individuals with skills and interests in the tech industry, including software development, data science, cybersecurity, IT support, and more."
+    },
+    {
+        "id": 8,
+        "title": "Developer Summit",
+        "img": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "price": 634.99,
+        "short_description": "A focused event for software developers, featuring deep-dive technical sessions, coding challenges, and discussions on emerging technologies.A Developer Summit is a specialized conference or gathering designed to bring together software developers, programmers, engineers, and other professionals in the technology and software development industry. These events are typically organized to promote networking, knowledge sharing, skill development, and collaboration among developers. "
+    },
+    {
+        "id": 9,
+        "title": "Tech Expo",
+        "img": "https://images.unsplash.com/photo-1508997449629-303059a039c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=800",
+        "price": 519.99,
+        "short_description": "A showcase of the latest tech innovations, gadgets, and solutions from various companies, allowing attendees to explore and interact with cutting-edge technology.A Tech Expo, short for Technology Expo, is an event that showcases the latest advancements, innovations, and products in the technology and IT industry. Tech Expos are organized to bring together technology companies, startups, industry professionals, and enthusiasts to promote and demonstrate their products, services, and solutions."
+    }
+]

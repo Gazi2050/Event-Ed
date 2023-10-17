@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80",
+        "comment_title": "Impressive Event",
+        "comment": "The tech event I attended was a true revelation. It showcased the latest innovations and breakthroughs in the tech industry, leaving me thoroughly impressed. The presentations were insightful, and the hands-on demonstrations were eye-opening.",
+        "date": "October 9, 2023"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "img": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+        "comment_title": "Excellent Service",
+        "comment": "I recently experienced the tech service, and it was a game-changer. The level of expertise and efficiency they brought to the table was truly impressive. Their commitment to delivering cutting-edge solutions was evident from the start.",
+        "date": "September 11, 2023"
+    },
+    {
+        "id": 3,
+        "name": "Eva Martinez",
+        "img": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1961&q=80",
+        "comment_title": "Great summit",
+        "comment": "The Tech Summit was an incredible experience. It brought together visionaries, innovators, and tech enthusiasts under one roof. The presentations were inspiring, and the discussions were thought-provoking.",
+        "date": "March 23, 2023"
+    },
+    {
+        "id": 4,
+        "name": "David Wilson",
+        "img": "https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "comment_title": "Awesome tech fair",
+        "comment": "The Tech Fair I attended was a fantastic showcase of the latest technological advancements. It was a mecca for tech enthusiasts, offering hands-on experiences with cutting-edge gadgets and innovations..",
+        "date": "January 5, 2023"
+    }
+]
